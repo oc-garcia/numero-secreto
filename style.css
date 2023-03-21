@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap");
+
+:root {
+    --bg-color:black;
+    --primary-color: lime;
+}
+
+body {
+  font-family: "Rubik Iso", cursive;
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+}
