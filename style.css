@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap");
 
 :root {
   --bg-color: black;
@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: "Rubik Iso", cursive;
+  font-family: "Roboto Mono", monospace;
   background-color: var(--bg-color);
   color: var(--primary-color);
   min-height: 100vh;
@@ -41,9 +41,9 @@ h3 {
 }
 
 .btn-jogar {
-    padding: 1em;
-    border: 0;
-    background-color: var(--primary-color);
-    border-radius: 5px;
-    margin-top: 1em;
+  padding: 1em;
+  border: 0;
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  margin-top: 1em;
 }
