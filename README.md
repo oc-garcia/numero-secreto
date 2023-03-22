@@ -24,3 +24,7 @@ Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+## Imagem do Projeto
+
+![](./assets/Screenshot%20from%202023-03-22%2008-57-30.png#vitrinedev)
